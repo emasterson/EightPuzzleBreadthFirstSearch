@@ -20,6 +20,7 @@ namespace CSC480_HW1_EightPuzzle
             }
             
             Console.WriteLine();
+            Console.WriteLine();
             
             
 
