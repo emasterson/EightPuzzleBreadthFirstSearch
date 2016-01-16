@@ -57,6 +57,7 @@ namespace CSC480_HW1_EightPuzzle
 
             }
 
+            StateNode.Successor(node2);
             
 
             Console.ReadLine();
